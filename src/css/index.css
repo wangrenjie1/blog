@@ -1,0 +1,14 @@
+@import "../iconfont/iconfont.css";
+.logo{
+    height:80px;
+    color: white;
+    text-align: center;
+    line-height: 80px;
+    letter-spacing: 20px;
+    font-size: 18px;
+    font-weight: bolder;
+    text-shadow: 3px 3px 8px rgb(0, 204, 255)
+}
+.logo::first-letter{
+    font-size: 26px;
+}
