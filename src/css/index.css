@@ -10,5 +10,192 @@
     text-shadow: 3px 3px 8px rgb(0, 204, 255)
 }
 .logo::first-letter{
-    font-size: 26px;
+    font-size: 26px; 
+}
+.annotation{
+    font-size: 12px;
+}
+.demobox{
+    padding: 0 10px;
+}
+#demo1 .main{
+   overflow: hidden;
+    height: 380px;
+    background: lightgreen;
+ }
+ #demo1  .aside{
+    float: left;
+    width: 200px;
+    height: 380px;
+    background-color: rgb(255, 123, 0);
+}
+#demo2,.parent{
+    border: 1px solid red;
+    width: 400px;
+    /* overflow: hidden; */
+    padding: 10px;
+    }
+#demo2   .child{
+    float: left;
+    height: 210px;
+    width: 198px;
+    border: 1px solid green;
+    }
+#demo3    .first{
+        width: 300px;
+        height: 160px;
+        margin-bottom: 50px;
+        background: red;
+    }
+#demo3   .second{
+        width: 300px;
+        height: 160px;
+        margin-top: 50px;
+        /* display: inline-block; */
+        background: red;
+    }
+#demo4{text-align: center;}
+#demo4 .content{
+      display: inline-block;
+      border: 1px solid red;
+    }
+#demo5{
+    text-align: center;
+    border: 1px solid red;  
+   
+}
+#demo5 .content{
+    display: inline-block;
+    border: 1px solid red;
+  }
+#demo5 .label{
+    display: inline-block;
+    height: 300px;
+    width: 150px;
+    background-color: aqua;
+    vertical-align: middle;
+}
+.resizeBox{
+    height: 100%;
+    width: 310px;
+    cursor: e-resize;
+    user-select: none;
+}
+pre{
+    margin: 0;
+}
+#demo6{
+    height:  100%;
+}
+#demo6 .aside{
+    float: left;
+    width: 180px;
+    background-color: rgb(255, 123, 0);
+    opacity: 0.5;
+    height:  100%;
+}
+#demo6 .main{
+    overflow: hidden;
+    height: 100%;
+    background-color: lightgreen;
+}
+#demo7.container{
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    border: 5px solid #ccc;
+    padding: 0 100px;
+}
+#demo7 .main{
+    width: 100%;
+    height: 100%;
+    float: left;
+    background-color: lightblue;
+}
+#demo7 .left{
+    float: left;
+    width: 100px;
+    height: 100%;
+    background-color: lightcoral;
+    position: relative;
+    left: -100px;
+    margin-left: -100%;
+}
+#demo7 .right{
+    float: left;
+    width: 100px;
+    height: 100%;
+    background-color: lightgreen;
+    position: relative;
+    right: -100px;
+    margin-left: -100px;
+}
+#demo8.container{
+    height: 100%;
+    border: 5px solid #ccc;
+}
+#demo8 .main,#demo8 .left,#demo8 .right{
+    float: left;
+    height: 100%;
+}
+#demo8 .main{
+    background-color:  rgb(255, 123, 0);
+    width: 100%;
+}
+#demo8 .left{
+    background-color: lightblue;
+    width: 100px;
+    margin-left: -100%;
+}
+#demo8 .right{
+    background-color: lightgreen;
+    width: 100px;
+    margin-left: -100px;
+}
+#demo8 .content{
+    margin: 0 100px;
+}
+#demo9.container{
+    height: 100%;
+    border: 5px solid #ccc;
+    display:flex;
+}
+#demo9 .main{
+    flex-grow: 1;
+    background-color: rgb(255, 123, 0);
+}
+#demo9 .left{
+    order:-1;
+    flex-basis: 200px;
+    background-color: lightblue;
+}
+#demo9 .right{
+    flex-basis:200px;
+    background-color: lightgreen;
+}
+#demo10.container{
+    height: 100%;
+    border: 5px solid #ccc;
+    position: relative;
+}
+#demo10 .main,#demo10 .left,#demo10 .right{
+    height: 100%;
+}
+#demo10 .main{
+    background-color:  rgb(255, 123, 0);
+    margin: 0 100px;
+}
+#demo10 .left{
+    background-color: lightblue;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100px;
+}
+#demo10 .right{
+    background-color: lightgreen;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100px;
 }
