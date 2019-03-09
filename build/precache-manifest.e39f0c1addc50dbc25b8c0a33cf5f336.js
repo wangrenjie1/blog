@@ -28,20 +28,20 @@ self.__precacheManifest = [
     "url": "/blog/static/js/main.184c3b56.chunk.js"
   },
   {
-    "revision": "c63fe45c3dd9781dd32781790863925f",
-    "url": "/blog/static/media/iconfont.c63fe45c.woff2"
+    "revision": "6d54219b8b6f2e6a08d5d4741c6f88b9",
+    "url": "/blog/static/media/iconfont.6d54219b.eot"
   },
   {
     "revision": "34ee1b4e587efa1a0b974d4a28241c62",
     "url": "/blog/static/media/iconfont.34ee1b4e.woff"
   },
   {
-    "revision": "6d54219b8b6f2e6a08d5d4741c6f88b9",
-    "url": "/blog/static/media/iconfont.6d54219b.eot"
-  },
-  {
     "revision": "e2809522d996d72faca35e252b0b7e1b",
     "url": "/blog/static/media/iconfont.e2809522.ttf"
+  },
+  {
+    "revision": "c63fe45c3dd9781dd32781790863925f",
+    "url": "/blog/static/media/iconfont.c63fe45c.woff2"
   },
   {
     "revision": "f8bba446e646c36a18d3",

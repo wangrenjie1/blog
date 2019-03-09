@@ -178,6 +178,7 @@ class  CssObject extends Component {
                                     </ol>
                                 </li>
                                 <li>
+                                    <h3>主要设计目标</h3>
                                     <ul>
                                         <li>更语义化的html和css</li>
                                         <li>降低对特定html结构的依赖</li>
