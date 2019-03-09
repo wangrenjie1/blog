@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/blog/static/media/rean.55d0884b.png"
   },
   {
-    "revision": "184c3b56ddbd49e12873",
+    "revision": "68fae694e6b6edc40869",
     "url": "/blog/static/css/main.3296258c.chunk.css"
   },
   {
@@ -24,31 +24,31 @@ self.__precacheManifest = [
     "url": "/blog/static/media/css盒子模型.2e8322cf.png"
   },
   {
-    "revision": "184c3b56ddbd49e12873",
-    "url": "/blog/static/js/main.184c3b56.chunk.js"
-  },
-  {
-    "revision": "6d54219b8b6f2e6a08d5d4741c6f88b9",
-    "url": "/blog/static/media/iconfont.6d54219b.eot"
-  },
-  {
-    "revision": "34ee1b4e587efa1a0b974d4a28241c62",
-    "url": "/blog/static/media/iconfont.34ee1b4e.woff"
-  },
-  {
-    "revision": "e2809522d996d72faca35e252b0b7e1b",
-    "url": "/blog/static/media/iconfont.e2809522.ttf"
+    "revision": "68fae694e6b6edc40869",
+    "url": "/blog/static/js/main.68fae694.chunk.js"
   },
   {
     "revision": "c63fe45c3dd9781dd32781790863925f",
     "url": "/blog/static/media/iconfont.c63fe45c.woff2"
   },
   {
+    "revision": "6d54219b8b6f2e6a08d5d4741c6f88b9",
+    "url": "/blog/static/media/iconfont.6d54219b.eot"
+  },
+  {
+    "revision": "e2809522d996d72faca35e252b0b7e1b",
+    "url": "/blog/static/media/iconfont.e2809522.ttf"
+  },
+  {
+    "revision": "34ee1b4e587efa1a0b974d4a28241c62",
+    "url": "/blog/static/media/iconfont.34ee1b4e.woff"
+  },
+  {
     "revision": "f8bba446e646c36a18d3",
     "url": "/blog/static/css/2.fa3d1973.chunk.css"
   },
   {
-    "revision": "ac7238c053657df36fca197acbb5317f",
+    "revision": "c2e809adba2acbc13756b2caa28650f3",
     "url": "/blog/index.html"
   }
 ];
