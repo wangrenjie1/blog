@@ -9,6 +9,7 @@ import CssObject from "./components/CssObject";
 import CssAnimated from "./components/CssAnimated";
 import CssPreset from "./components/CssPreset";
 import  './css/index.css';
+import './css/index.scss';
 import {
     Layout,
     Menu,

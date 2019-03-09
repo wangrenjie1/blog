@@ -47,7 +47,6 @@
     "react-dom": "^16.8.3",
     "react-transition-group": "^2.6.0",
     "resolve": "1.10.0",
-    "sass-loader": "7.1.0",
     "style-loader": "0.23.1",
     "terser-webpack-plugin": "1.2.2",
     "url-loader": "1.1.2",
@@ -126,7 +125,9 @@
     "antd": "^3.13.6",
     "babel-plugin-import": "^1.11.0",
     "gh-pages": "^2.0.1",
+    "node-sass": "^4.11.0",
     "react-markdown": "^4.0.6",
-    "react-router-dom": "^4.3.1"
+    "react-router-dom": "^4.3.1",
+    "sass-loader": "^7.1.0"
   }
 }
